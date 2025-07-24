@@ -6,7 +6,6 @@ The contact form is fully functional and seamlessly integrated with AWS services
 
 The entire website is hosted on Amazon S3 and delivered via Amazon CloudFront for fast, secure, and globally accessible performance.
 
-### Architecture Diagram
 
 ### Architecture Diagram
 
