@@ -8,4 +8,4 @@ The entire website is hosted on Amazon S3 and delivered via Amazon CloudFront fo
 
 ### Architecture Diagram
 
-![Architecture Diagram](./images/Architecture_Diagram.png)
+![Architecture Diagram](./PortfolioWwebsite-main/Architecture_Diagram.png)
