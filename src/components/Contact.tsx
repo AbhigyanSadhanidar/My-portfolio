@@ -21,7 +21,8 @@ const Contact = () => {
     e.preventDefault();
   
     try {
-      const response = await fetch("https://8qvgizwk17.execute-api.ap-south-1.amazonaws.com/contact", {
+      const response = await fetch(import.meta.env.VITE_API_GATEWAY_URL, {
+
         method: "POST",
         headers: {
           "Content-Type": "application/json",
